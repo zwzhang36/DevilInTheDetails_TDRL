@@ -2,14 +2,16 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+This repository provides the necessary instructions to set up and run the project on your local machine for development and testing.
+
+It allows you to reproduce the simulation results presented in the paper:
+"The Devilish Details Affecting TDRL Models in Dopamine Research" by Z. Zhang et al., Trends in Cognitive Science, 2025. Specifically, it includes the code for: Box 1: Figure ID, E, Box 2: Figure IID, Box 3: Figure IIID
 
 
 ### Prerequisites
 
 Operating System: This software is compatible with Windows 10, macOS Big Sur
-Python 3.8 has been tested.
-Other required packages have been indicated in the file requirements.txt
+Python 3.11 has been tested.
 
 ### Installing
 
